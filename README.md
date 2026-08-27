@@ -35,7 +35,7 @@ upi-transactions-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/upi-transactions-analysis.git
+git clone https://github.com/<vinti sai>/upi-transactions-analysis.git
 cd upi-transactions-analysis
 ```
 
