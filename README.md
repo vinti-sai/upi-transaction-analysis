@@ -160,15 +160,3 @@ The `sql/kpi_queries.sql` file contains **20+ queries** across 7 analysis sectio
 - Significant **seasonal spikes** in October–November (festive season) and December
 
 ---
-
-## 👤 Author
-
-**[Your Name]**  
-MCA | Data Analysis Enthusiast  
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
